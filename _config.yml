@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: RSECon 2023 Satellite Training Event
 email:
 description: >- 
   Schedule and abstracts for the Satellite Training Event at RSECon 2023
-twitter_username: 
-github_username: PipGrylls
 minimal_mistakes_skin: default
 search: true
+# Social settings
+github_username: PipGrylls
 
 # Build settings
 markdown: kramdown
@@ -56,34 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Find below the links to the RSECon 2023 website and the GitHub repository for this website."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://rsecon23.society-rse.org/satellite-events/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/PipGrylls/RSECon23-Training-Satellite-Event/tree/master"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/PipGrylls/RSECon23-Training-Satellite-Event/"
+
 
 defaults:
   # _posts
