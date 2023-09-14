@@ -1,5 +1,9 @@
 main:
   - title: "Schedule"
-    url: /information/organisation/Schedule/
+    url: /information/orginisation/Schedule/
   - title: "Abstracts"
     url: /categories/#abstract
+  - title: "About"
+    url: /about/
+  - title: "Blogs"
+    url: /categories/#blog
