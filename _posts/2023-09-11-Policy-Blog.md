@@ -6,7 +6,7 @@ categories:
 ---
 
 As part of the RSECon23 Training Event, there was a theme on 'Policy, Culture, and Resourcing'.
-This theme started with a talk from Simon Hettrick in the morning where the difficulties and pathways of changing opinion in the academic landscape.
+This theme started with a talk from Simon Hettrick in the morning where he detailed the difficulties with and pathways toward changing opinion in the academic landscape.
 Following this in the afternoon we had a discussion session where we generated action points, ideas, and potential problems for how to generate movement.
 
 Our discussion resulted in the following action points:
